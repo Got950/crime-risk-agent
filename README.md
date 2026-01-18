@@ -1,4 +1,4 @@
-# SPADE Risk Assessment Agent
+# Risk Assessment Agent
 
 **Production-Ready Address-Based Vulnerability & Risk Assessment System**
 
@@ -26,7 +26,7 @@ A comprehensive full-stack application that assesses property security risks bas
 
 ## 🎯 Overview
 
-The SPADE Risk Assessment Agent provides intelligent risk analysis for properties by evaluating multiple security dimensions including crime statistics, property exposure, accessibility, neighborhood factors, and operational risks. The system generates actionable security recommendations based on comprehensive risk scoring.
+The Risk Assessment Agent provides intelligent risk analysis for properties by evaluating multiple security dimensions including crime statistics, property exposure, accessibility, neighborhood factors, and operational risks. The system generates actionable security recommendations based on comprehensive risk scoring.
 
 ### Technology Stack
 

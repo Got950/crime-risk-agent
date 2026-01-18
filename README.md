@@ -1,4 +1,4 @@
-# SPADE Risk Assessment Agent
+# Risk Assessment Agent
 
 **Production-Ready Address-Based Vulnerability & Risk Assessment System**
 
